@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Abdul Raheem 👋
 
-<!--
-**raheemrajpoot678/raheemrajpoot678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend-Focused Software Engineer
 
-Here are some ideas to get you started:
+I’m a software engineer with **4+ years of experience** building backend systems, REST APIs, SaaS applications, and third-party integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily work with **Node.js, NestJS, Express.js, Python, FastAPI, PostgreSQL, and TypeScript**, with hands-on experience deploying applications using **Docker, AWS, and Azure**.
+
+### 🛠 Tech Stack
+
+**Backend:** Node.js • NestJS • Express.js • FastAPI • Python
+**Databases:** PostgreSQL • MySQL • MongoDB • Redis
+**Frontend:** React • Next.js • TypeScript
+**Cloud & DevOps:** Docker • AWS • Azure • Nginx • GitHub Actions
+**Integrations:** Stripe • Twilio • Firebase • WebSockets • OAuth2
+
+### 🚀 What I Work On
+
+* Designing scalable REST APIs and backend architectures
+* Building SaaS and marketplace platforms
+* Authentication, authorization, and RBAC
+* Payment systems and Stripe integrations
+* Background jobs and asynchronous workflows
+* Third-party API integrations
+* PostgreSQL database design and optimization
+* Dockerized development and production deployments
+
+### 💼 Currently
+
+🔨 Building production backend systems with **Python, FastAPI, PostgreSQL, and Docker**
+
+🌱 Strengthening my knowledge of **system design, distributed systems, and scalable backend architecture**
+
+🤝 Open to **remote Backend Engineer and backend-focused Full-Stack Engineer opportunities**
+
+### 📫 Connect With Me
+
+**LinkedIn:** www.linkedin.com/in/abdul-raheem-developer
+**Email:** raheemrajpoot678@gmail.com
