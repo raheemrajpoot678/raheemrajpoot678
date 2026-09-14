@@ -9,9 +9,13 @@ I primarily work with **Node.js, NestJS, Express.js, Python, FastAPI, PostgreSQL
 ### 🛠 Tech Stack
 
 **Backend:** Node.js • NestJS • Express.js • FastAPI • Python
+
 **Databases:** PostgreSQL • MySQL • MongoDB • Redis
+
 **Frontend:** React • Next.js • TypeScript
+
 **Cloud & DevOps:** Docker • AWS • Azure • Nginx • GitHub Actions
+
 **Integrations:** Stripe • Twilio • Firebase • WebSockets • OAuth2
 
 ### 🚀 What I Work On
