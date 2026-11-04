@@ -1,33 +1,36 @@
 # Abdul Raheem: Backend Engineer
 
-4+ years building APIs, SaaS and payment backends with **Node.js/NestJS, Python/FastAPI and PostgreSQL**. Open to **remote** Backend and backend-focused Full-Stack roles.
+Backend engineer with 4+ years building **payments, SaaS and API backends** in Node.js/NestJS and Python/FastAPI on PostgreSQL. I specialize in **Stripe and Stripe Connect**, billing and third-party integrations.
 
-## Impact
+Based in Lahore, Pakistan (UTC+5): I can work the full EU day and US Eastern mornings. Open to **remote** Backend and backend-focused Full-Stack roles.
 
-<!-- TODO: add a real number to each bullet (e.g. "$X/month processed", "p95 cut from X ms to Y ms", "N users"). Never add numbers you can't defend in an interview. -->
-- Built Stripe payment and subscription flows for SaaS and marketplace platforms
-- Designed authentication, authorization and RBAC for multi-role production apps
-- Designed and tuned PostgreSQL schemas and queries behind production REST APIs
-- Shipped Dockerized services to AWS and Azure, with background jobs and async workflows
+## Selected work
 
-<!-- TODO: uncomment once you have 2–4 public repos to show, and pin the same repos on your profile.
-## Featured Projects
+Client projects. Code is private and some are under NDA.
 
-- **[project-name](https://github.com/raheemrajpoot678/project-name)**: what it does and the result. *Stack: NestJS, PostgreSQL, Stripe, Docker*
-- **[project-two](https://github.com/raheemrajpoot678/project-two)**: what it does and the result. *Stack: FastAPI, PostgreSQL, Redis*
--->
+- **Fintech dividend data platform (HeyDividend):** data pipeline on Azure Functions (Node.js) that merges the FMP API, a scraper and manual entry into PostgreSQL, with REST APIs on top. **216K+ dividend records** across **4,700+ tickers** (3,300+ ETFs) on **92 exchanges**, with history back to 1970 and every row tagged with its source.
+- **US marketplace on Stripe Connect (NDA):** FastAPI backend where sellers join as connected accounts and pass Stripe Identity checks before selling. Handles payments with a platform fee, payouts, and signed webhooks that are safe to receive twice.
+- **CRM and automation platform (BoostMySites):** Node.js APIs on Supabase with role-based access for admins, staff and clients, plus task automation, Zoom integration and real-time reports. Cut **manual work by 40%** and raised **task completion by 30%**.
+- **US healthcare platform (CarePilotMN, Minnesota):** Node.js, PostgreSQL and Next.js, built to HIPAA requirements. Covers client intake with eligibility documents, caregiver matching, Minnesota Medicaid billing, electronic visit verification and e-prescribing.
+- **Healthcare platform (Shifacom):** one platform for doctors, patients, pharmacies and agencies, with appointments, online consultations, clinical notes, patient records and role-based access, built to HIPAA requirements.
+- **Real estate marketplace API (GULFEstate, Dubai):** Node.js, Prisma and PostgreSQL. Buyer, seller and admin roles, listing approvals, filters and saved searches.
 
 ## Stack
 
-**Backend:** TypeScript, Node.js, NestJS, Express.js · Python, FastAPI<br>
-**Data:** PostgreSQL, MySQL, MongoDB, Redis<br>
-**Cloud & DevOps:** Docker, AWS, Azure, Nginx, GitHub Actions<br>
-**Integrations:** Stripe, Twilio, Firebase, WebSockets, OAuth2<br>
-**Also:** React, Next.js
+**Backend:** TypeScript, Node.js, NestJS, Express · Python, FastAPI<br>
+**Data:** PostgreSQL (schema design, migrations, indexing, query tuning), Prisma, Supabase, MongoDB<br>
+**Payments:** Stripe (payments, subscriptions, webhooks), Stripe Connect, Stripe Identity<br>
+**APIs & security:** REST, JWT auth, role-based access, multi-tenant permissions<br>
+**Infra:** Docker, Azure Functions, CI/CD<br>
+**Also:** AI/LLM integrations (OpenAI, Claude), Next.js, React
 
-## Currently
+## Experience
 
-Building production backend systems with FastAPI, PostgreSQL and Docker, and studying system design and distributed systems.
+- **Independent SaaS & API Developer:** Sep 2023 – present
+- **Senior Software Engineer, SaaS & API Systems, Tkxel:** Feb – Aug 2023
+- **Full Stack Developer, Techno Books:** 2021 – 2023
+
+MS Computer Science, Virtual University of Pakistan (2024) · BS Computer Science, University of the Punjab (2022)
 
 ## Contact
 
